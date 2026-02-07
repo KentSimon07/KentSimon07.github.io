@@ -19,7 +19,7 @@ ___
 
 ### :mailbox_with_mail: Let's Connect
 - :email: **Email**: [kentsimon2511@gmail.com](mailto:kentsimon2511@gmail.com)
-- :octacat: **GitHub**: [KentSimon07](https://github.com/KentSimon07)
+- :octocat: **GitHub**: [KentSimon07](https://github.com/KentSimon07)
 
 ___
 *Started: 07 February 2026,*
