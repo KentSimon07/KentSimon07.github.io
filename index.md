@@ -1,5 +1,5 @@
 # Kent Simon
-### 💻 Programming Student @ North Metropolitan TAFE
+### Programming Student @ North Metropolitan TAFE
 
 ![Handsome Cartoon Man](https://img.freepik.com/premium-photo/handsome-guy-animation_605905-16243.jpg)
 
@@ -9,9 +9,9 @@ ___
 
 
 ### 🚀 About Me
-- :mortar_board: **Currently Studying**: Certificate IV in Programming at TAFE
-- :computer: **Tech Interests**: Web Development, Csharp, and Git.
-- :round_pushpin:**Location**: Western Australia
+- 🎓 **Currently Studying**: Certificate IV in Programming at TAFE
+- 💻 **Tech Interests**: Web Development, Csharp, and Git.
+- 📍**Location**: Western Australia
 
 ### 🎯 Hobbies 
 - Basketball
@@ -25,6 +25,6 @@ ___
 
 ___
 *Started: 07 February 2026,*
-*created with :love: using Markdown and GitHub Pages.*
+*created with ❤️ using Markdown and GitHub Pages.*
 
 
