@@ -23,9 +23,13 @@ ___
 - 📧 **Email**: [kentsimon2511@gmail.com](mailto:kentsimon2511@gmail.com)
 - 🐙 **GitHub**: [KentSimon07](https://github.com/KentSimon07)
 
+### 🛠️ Languages & Tools
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ___
-
-> "First, solve the problem. Then, write the code." – John Johnson
 
 *Started: 07 February 2026,*
 *created with using Markdown and GitHub Pages.*
