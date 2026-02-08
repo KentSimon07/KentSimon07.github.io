@@ -24,6 +24,9 @@ ___
 - 🐙 **GitHub**: [KentSimon07](https://github.com/KentSimon07)
 
 ___
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
 *Started: 07 February 2026,*
 *created with ❤️ using Markdown and GitHub Pages.*
 
